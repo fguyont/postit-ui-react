@@ -66,3 +66,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* class addition by me */ 
+
+.custom-form{
+  text-align: center;
+  max-width: 490px;
+  padding:15px;
+  margin: 20px auto;
+  height:100%;
+  background-color: rgb(196, 207, 245);
+}
